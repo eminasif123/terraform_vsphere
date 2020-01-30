@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"ansible","Source":"radekg/ansible/provisioner","Version":"2.3.0","Dir":".terraform/modules/ansible/radekg-terraform-provisioner-ansible-30a98c3"},{"Key":"","Source":"","Dir":"."}]}

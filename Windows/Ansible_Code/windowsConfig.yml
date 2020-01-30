@@ -1,0 +1,9 @@
+
+---
+# This playbook is to update settings in Windows hosts
+
+- name: Windows config change
+  hosts: windows
+  gather_facts: false
+  roles:
+   - windows_update
